@@ -1,1 +1,1 @@
-This is Git learning session
+This is Git learning session.
